@@ -1,0 +1,3 @@
+:startloop
+start
+goto startloop
