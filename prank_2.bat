@@ -1,5 +1,5 @@
 @echo off
 CLS
 :DEAD
-msg * lol
+msg * try closing this :p
 GOTO DEAD
